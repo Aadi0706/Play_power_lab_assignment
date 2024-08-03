@@ -1,0 +1,17 @@
+.slider {
+  width: 100%;
+  margin-top: 20px;
+  height: 25px;
+}
+
+.track {
+  background: lightgray;
+  height: 5px;
+}
+
+.thumb {
+  height: 25px;
+  width: 25px;
+  background-color: blue;
+  cursor: pointer;
+}
